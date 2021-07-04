@@ -1,4 +1,4 @@
 
 # Ecommerce Deployment Link
 
-# [Demo](https://bhavana-ecommerce.herokuapp.com/)
+# [Demo](https://bhavana-onlinestore.herokuapp.com/)
